@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RohitKumarak47/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RohitKumarak47/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/RohitKumarak47/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [1331-rank-transform-of-an-array](https://github.com/RohitKumarak47/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,4 +20,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RohitKumarak47/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [1331-rank-transform-of-an-array](https://github.com/RohitKumarak47/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/RohitKumarak47/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
